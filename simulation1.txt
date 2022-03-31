@@ -1,0 +1,439 @@
+Time: 0
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 1
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 2
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 3
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 4
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 5
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 6
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 7
+Tasks waiting: 
+(1,8,2),(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 8
+Tasks waiting: 
+(0,15,3),
+Queue 0:(1,8,2),
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 9
+Tasks waiting: 
+(0,15,3),
+Queue 0:(1,8,1),
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 10
+Tasks waiting: 
+(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 11
+Tasks waiting: 
+(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 12
+Tasks waiting: 
+(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 13
+Tasks waiting: 
+(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 14
+Tasks waiting: 
+(0,15,3),
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 15
+Tasks waiting: 
+Queue 0:(0,15,3),
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 16
+Tasks waiting: 
+Queue 0:(0,15,2),
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 17
+Tasks waiting: 
+Queue 0:(0,15,1),
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 18
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 19
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 20
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 21
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 22
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 23
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 24
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 25
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 26
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 27
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 28
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 29
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 30
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 31
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 32
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 33
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 34
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 35
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 36
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 37
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 38
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 39
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 40
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 41
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 42
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 43
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 44
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 45
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 46
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 47
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 48
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 49
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 50
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 51
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 52
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 53
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 54
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 55
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 56
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 57
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 58
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Time: 59
+Tasks waiting: 
+Queue 0:empty
+Queue 1:empty
+Queue 2:empty
+Queue 3:empty
+------------------
+Peak: 15
+AvgWaitingTime: 1.8
+AvgServiceTime: 2.5
+Done!
